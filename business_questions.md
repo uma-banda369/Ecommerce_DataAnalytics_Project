@@ -1,14 +1,14 @@
 #Sales
-What are total sales?
-What is the monthly sales trend?
-Which category has highest sales?
-Which region generates highest sales?
+1.What are total sales?
+2.What is the monthly sales trend?
+3.Which category has highest sales?
+4.Which region generates highest sales?
 #Customers
-How many customers?
-Which customers purchase the most?
-What is average order value?
+5.How many customers?
+6.Which customers purchase the most?
+7.What is average order value?
 #Profit
-What is total profit?
-Which products generate highest profit?
-Which products lose money?
-Which categories have low margins?
+8.What is total profit?
+9.Wich products generate highest profit?
+10.Which products lose money?
+11.Which categories have low margins?
