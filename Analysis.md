@@ -8,3 +8,32 @@
 #Data validation
 Revenue Validation: Revenue = Quantity × Unit Price × (1 - Discount)
 =IF(ABS([@Revenue_Difference])<0.02,"Valid","Check")
+#All are valid in our dataset - validation check done.
+
+#Calculated columns
+Year
+Month
+Quarter
+Discount_Amount
+Revenue_Before_Discount
+"Profitability cannot be calculated from the available dataset."
+
+#EDA
+Overall sales performance
+Category performance
+Regional performance
+Monthly trends
+Payment methods
+Customer behavior
+Discount patterns
+Delivery performance
+Customer ratings
+
+**KPIs**:
+
+
+
+
+
+
+
